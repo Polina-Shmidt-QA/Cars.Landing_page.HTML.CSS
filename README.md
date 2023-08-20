@@ -1,2 +1,1 @@
-# cars
-lending page
+# Аренда премиальных автомобилей lending page
